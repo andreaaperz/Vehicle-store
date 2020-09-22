@@ -1,0 +1,53 @@
+﻿<Window x:Class="Actividad_6.Gui.Clientes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Actividad_6.Gui"
+        mc:Ignorable="d"
+        Title="Clientes" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="3" HorizontalAlignment="Center">
+            
+        </Border>
+        <Border Grid.Row="2" HorizontalAlignment="Center" Margin="0,0,1,0" Width="791" VerticalAlignment="Center">
+            <DockPanel Height="60" LastChildFill="False" Margin="304,0,306,0" Grid.Row="2" Grid.RowSpan="2" VerticalAlignment="Top">
+                <Button x:Name="btnAgregar" Click="BtnAgregar_Click" Width="64">
+                    <Image Height="60" Source="/Actividad_6;component/img1.png" Stretch="Fill" Width="60"/>
+                </Button>
+                <Button x:Name="btnBuscar" Click="BtnBuscar_Click" Width="66">
+                    <Image Height="56" Source="/Actividad_6;component/img2.png" Stretch="Fill" Width="56"/>
+                </Button>
+                <Button x:Name="btnEliminar" Width="59">
+                    <Image Height="50" Source="/Actividad_6;component/img3.png" Stretch="Fill" Width="50"/>
+                </Button>
+            </DockPanel>
+        </Border>
+        <Border Grid.Row="1">
+            <Canvas>
+                <TextBox x:Name="txtApMaterno" HorizontalAlignment="Left" Height="23" Margin="474,47,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtApPaterno" HorizontalAlignment="Left" Height="23" Margin="349,47,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="224,47,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Label Content="Nombre" HorizontalAlignment="Left" Margin="153,48,0,0" Grid.Row="1" VerticalAlignment="Top" Height="23" Width="66"/>
+                <Label Content="Email" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Height="23" Width="66" Canvas.Left="153" Canvas.Top="76"/>
+                <TextBox x:Name="txtNombreUsuario" HorizontalAlignment="Left" Height="23" Margin="224,104,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Label Content="IdUsuario" HorizontalAlignment="Left" Margin="153,104,0,0" Grid.Row="1" VerticalAlignment="Top" Height="23" Width="66"/>
+                <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Canvas.Left="224" Canvas.Top="76"/>
+            </Canvas>
+        </Border>
+        <Border Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Button x:Name="btnRegresar" Content="X" Margin="711,16,0,0"  Width="47" Height="32" Click="BtnRegresar_Click" FontWeight="Bold" Background="#FFFBFBFB" BorderBrush="Black" FontSize="18"/>
+        </Border>
+
+        <Border  VerticalAlignment="Center" Grid.Row="0" HorizontalAlignment="Left">
+            <Label Content="Clientes" Width="116" FontSize="18" FontWeight="Bold"></Label>
+        </Border>
+        <Label Content="Puede ingresar usuario del 5 hasta el 11" HorizontalAlignment="Left" Margin="153,46.724,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

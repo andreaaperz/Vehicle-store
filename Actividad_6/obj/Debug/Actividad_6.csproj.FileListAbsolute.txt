@@ -1,0 +1,63 @@
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\bin\Debug\Actividad_6.exe.config
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\bin\Debug\Actividad_6.exe
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\bin\Debug\Actividad_6.pdb
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csprojAssemblyReference.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6_MarkupCompile.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6_MarkupCompile.lref
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.g.resources
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.Properties.Resources.resources
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csproj.GenerateResource.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.exe
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Actividad_6.pdb
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Gui\Clientes.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Gui\Empleados.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Gui\Vehiculos.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Gui\Clientes.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Gui\Empleados.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividad_6\Actividad_6\obj\Debug\Gui\Vehiculos.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\bin\Debug\Actividad_6.exe.config
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\bin\Debug\Actividad_6.exe
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\bin\Debug\Actividad_6.pdb
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csprojAssemblyReference.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Clientes.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Empleados.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Vehiculos.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6_MarkupCompile.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6_MarkupCompile.lref
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Clientes.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Empleados.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Vehiculos.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.g.resources
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.Properties.Resources.resources
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csproj.GenerateResource.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.exe
+C:\Users\Andrea\Documents\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.pdb
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\bin\Debug\Actividad_6.exe.config
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\bin\Debug\Actividad_6.exe
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\bin\Debug\Actividad_6.pdb
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csprojAssemblyReference.cache
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Clientes.g.cs
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Empleados.g.cs
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Vehiculos.g.cs
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\MainWindow.g.cs
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\App.g.cs
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6_MarkupCompile.cache
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6_MarkupCompile.lref
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Clientes.baml
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Empleados.baml
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Gui\Vehiculos.baml
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\MainWindow.baml
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.g.resources
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.Properties.Resources.resources
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csproj.GenerateResource.cache
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.csproj.CoreCompileInputs.cache
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.exe
+E:\Windows\Universidad\Segundo Semestre\Programación-Entornos Visuales\Segundo parcial\Actividadddd_6\Actividad_6\Actividad_6\obj\Debug\Actividad_6.pdb

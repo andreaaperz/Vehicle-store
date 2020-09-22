@@ -1,0 +1,47 @@
+﻿<Window x:Class="Actividad_6.Gui.Empleados"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Actividad_6.Gui"
+        mc:Ignorable="d"
+        Title="Empleados" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="170"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0">
+            <Label Content="Empleados" FontWeight="Bold" FontSize="14"></Label>
+        </Border>
+        <Border Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Right">
+            <Button Content="x" x:Name="btnEmpleadoCerrar" Height="50px" Width="50px" BorderBrush="Black" Background="White" FontSize="18" FontWeight="Bold" BorderThickness="5" Click="btnEmpleadoCerrar_Click"></Button>
+        </Border>
+        <Border Grid.Row="3" Margin="0,0.063,42.701,0.039" HorizontalAlignment="Right" Width="675" >
+            
+        </Border>
+
+        <Label Content="Fecha Ingreso" HorizontalAlignment="Left" Margin="10,66,0,0" Grid.Row="2" VerticalAlignment="Top" Width="114"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="10,38,0,0" Grid.Row="2" VerticalAlignment="Top" Width="114"/>
+        <Label Content="IdUsuario" HorizontalAlignment="Left" Margin="10,91,0,0" Grid.Row="2" VerticalAlignment="Top" Width="114"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="124,38,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtApMaterno" HorizontalAlignment="Left" Height="23" Margin="424,38,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtApPaterno" HorizontalAlignment="Left" Height="23" Margin="274,38,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtUsuario" HorizontalAlignment="Left" Height="23" Margin="124,94,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <Button x:Name="btnAgregar" HorizontalAlignment="Left" Margin="254,132,0,0" Grid.Row="2" VerticalAlignment="Top" Width="38" Height="35" Click="btnAgregar_Click">
+            <Image Height="35" Source="/Actividad_6;component/img1.png" Stretch="Fill" Width="35"/>
+
+        </Button>
+        <Button x:Name="btnBuscar"  HorizontalAlignment="Left" Margin="318,132,0,0" Grid.Row="2" VerticalAlignment="Top" Width="36" Height="33">
+            <Image Height="33" Source="/Actividad_6;component/img2.png" Stretch="Fill" Width="33"/>
+        </Button>
+        <Button x:Name="btnEliminar"  HorizontalAlignment="Left" Margin="378,132,0,0" Grid.Row="2" VerticalAlignment="Top" Width="38" Height="33">
+            <Image Height="28" Source="/Actividad_6;component/img3.png" Stretch="Fill" Width="28"/>
+        </Button>
+        <DatePicker x:Name="dtmFechaIngreso" HorizontalAlignment="Left" Margin="124,66,0,0" Grid.Row="2" VerticalAlignment="Top"/>
+        <Label Content="Puede ingresar usuario del 5 hasta el 11" HorizontalAlignment="Left" Margin="166,101.063,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

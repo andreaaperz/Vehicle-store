@@ -1,0 +1,30 @@
+﻿<Window x:Class="Actividad_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Actividad_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="95"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0">
+            <Label Content="Menú" FontSize="36" FontWeight="Bold"></Label>
+        </Border>
+        <Border Grid.Row="2" HorizontalAlignment="Right">
+            <Label Content="Elaborado por: Andrea Pérez Cortés"></Label>
+        </Border>
+        <Border Grid.Row="1">
+            <StackPanel>
+                <Button Content="Empleados" Height="57px" Width="150px" FontSize="18" Foreground="#FF0F0D0D" Background="#FFFFFDFD" BorderBrush="#FF1F1B1B" BorderThickness="4" FontWeight="Bold" Click="Button_Click"></Button>
+                <Button Content="Clientes" Height="57px" Width="150px" FontSize="18" Background="White" BorderBrush="#FF060606" BorderThickness="4" FontWeight="Bold" Click="Button_Click_2"></Button>
+                <Button Content="Autos" Height="57px" Width="150px" FontSize="18" Background="White" BorderBrush="#FF060505" BorderThickness="4" FontWeight="Bold" Click="Button_Click_1"></Button>
+                <Button Content="Conexión" Height="57px" Width="150px" FontSize="18" Background="Beige" BorderBrush="#FF060505" BorderThickness="4" FontWeight="Bold" Click="Button_Click_3"></Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
